@@ -11,7 +11,7 @@
 - 핵심 기능
 - 프로젝트를 통해 느낀점
 
----
+
 
 ## 개발환경
 
@@ -21,7 +21,7 @@
 - AWS RDS
 - Visual Studio Code
 
----
+
 
 ## 사용 기술
 
@@ -47,7 +47,7 @@
     - Lombok
     - Gmail Smtp
 
----
+
 
 ## 핵심 키워드
 
@@ -55,13 +55,13 @@
 - AWS를 통한 배포까지 계획 중입니다.
 - MVC2 모델을 기반으로 백엔드 서버를 구축했습니다.
 
----
+
 
 ## ERD 다이어그램
 
-![ERD.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0804391-1efc-4e58-9907-5a7f2cbac884/d5f4e0a3-2877-41f4-9d8c-2bbed583ba62/ERD.png)
+![ERD](https://github.com/chanani/IttamProject/assets/130114269/01eb9503-2b71-47bc-b903-ff43e215fb4f)
 
----
+
 
 ## 프로젝트 목적
 
@@ -70,7 +70,7 @@
     학원에서 자유롭게 다양한 주제의 프로젝트를 진행해 보았으나, 아직 제가 가지고 있는 역량으로는 많은 것들을 완벽하기 구현하기는 어려울 수 있구나라는 생각에 우선 저를 정상 시킬 수 있는 프로젝트를 해보고 싶었고, 모든 일은 기본기가 탄탄해야 무너지지 않는다는 생각이 들어 게시판을 많이 만들어 볼 수 있는 자산 관리 프로젝트를 선정하게 되었습니다.
     
 
----
+
 
 ## 핵심 기능
 
@@ -85,7 +85,8 @@
     
     AWS SES를 적용할 수 있었으나 SandBox가 적용이 되어있을 경우 발신자, 수신자의 Email 인증이 이루어진 상태일 경우에만 발송을 할 수 있어 SES와 같이 Email을 발송할 수 있는 라이브러리를 찾던 중 Gmail SMTP를 접하게 되어 해당 프로젝트에 적용하게 되었습니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0804391-1efc-4e58-9907-5a7f2cbac884/5aa418ee-3e7a-4a38-867f-17ffecba145b/Untitled.png)
+![Untitled (1)](https://github.com/chanani/IttamProject/assets/130114269/e03ab20c-ebe4-496a-900e-150dfd6af82a)
+
     
 - AMAZON S3를 통한 이미지 업로드 기능
     
@@ -95,9 +96,9 @@
     
     자산을 등록할 때 데이터베이스에 추가되어 있는 카테고리를 선택해 등록될 수 있도록 구현해 놓았습니다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0804391-1efc-4e58-9907-5a7f2cbac884/9f8c7e01-c04a-4c7e-afd3-e5350596aa72/Untitled.png)
+![Untitled (2)](https://github.com/chanani/IttamProject/assets/130114269/c9440b25-209e-4084-bafe-d905e7e0a777)
+
     
-    ---
     
 
 ## 프로젝트를 통해 느낀 점
